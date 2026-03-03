@@ -2,7 +2,7 @@
 
 Submitted by: **Jonathan Suconota**
 
-This web app: **This web app allows you to find more information about sports, national leagues, teams and players. Similar to transfer market but for more games. Great for sport any enthusiastic**
+This web app: **This web app allows you to find more information about sports, national leagues, teams and players. Similar to transfer market but for more games. Great for any sport enthusiasts**
 
 Time spent: **2** hours spent in total
 
